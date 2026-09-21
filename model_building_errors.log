@@ -1,0 +1,6 @@
+2026-09-21 18:26:37,123 - model_building - ERROR - Error during LightGBM model training: check_X_y() got an unexpected keyword argument 'force_all_finite'
+2026-09-21 18:26:37,123 - model_building - ERROR - Failed to complete the feature engineering and model building process: check_X_y() got an unexpected keyword argument 'force_all_finite'
+2026-09-21 18:29:16,335 - model_building - ERROR - Error during LightGBM model training: exception: access violation reading 0x0000000000000000
+2026-09-21 18:29:16,337 - model_building - ERROR - Failed to complete the feature engineering and model building process: exception: access violation reading 0x0000000000000000
+2026-09-21 18:31:58,674 - model_building - ERROR - Error during LightGBM model training: exception: access violation reading 0x0000000000000000
+2026-09-21 18:31:58,676 - model_building - ERROR - Failed to complete the feature engineering and model building process: exception: access violation reading 0x0000000000000000
